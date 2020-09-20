@@ -46,14 +46,13 @@ More code on [github](https://github.com/arloktev)
 
 ### Experience
 
-**Business Media** - *Jule 2017 - January 2020* 
-**Hawking Bros.** - *January 2020 - until now*
+* **Business Media** - *Jule 2017 - January 2020*
+* **Hawking Bros.** - *January 2020 - until now*
 
 ### Education
 
-**Bachelor of Biomedical Systems and Technologies (Vladimir State University)** - *(2013 - 2017)*
-**HTML & CSS (level 1)** - *28 May - 4 Jule 2018*
-
+* **Bachelor of Biomedical Systems and Technologies (Vladimir State University)** - *(2013 - 2017)*
+* **HTML & CSS (level 1)** - *28 May - 4 Jule 2018*
 
 ### English
 
